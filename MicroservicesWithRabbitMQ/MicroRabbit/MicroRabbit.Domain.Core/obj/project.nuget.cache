@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DJFyO+7CDCqxoraM4a+IykXUIEpha9bpDtiz8MmJjmHVAPugfqF3ajifBXIjliuUz2T0ATsF2kB3e4uVcbI7aA==",
+  "dgSpecHash": "Zd62KIcX8be5ubRNc4EAUdPRo/4SKlO0OYsbPQnWqh5aUor+KKsWBEXrua4g6dK0Y9Hg1v3+pNBVe8InjFLufQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\d.karyakin\\Desktop\\Project\\ProduserConsumerRabbitMQ\\Recall.RabbitMq\\MicroservicesWithRabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

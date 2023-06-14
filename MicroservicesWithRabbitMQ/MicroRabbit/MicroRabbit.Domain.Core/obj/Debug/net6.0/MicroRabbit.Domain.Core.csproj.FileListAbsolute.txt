@@ -1,0 +1,12 @@
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net6.0\MicroRabbit.Domain.Core.deps.json
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\MicroRabbit.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\refint\MicroRabbit.Domain.Core.dll
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Recall.RabbitMq\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net6.0\ref\MicroRabbit.Domain.Core.dll
