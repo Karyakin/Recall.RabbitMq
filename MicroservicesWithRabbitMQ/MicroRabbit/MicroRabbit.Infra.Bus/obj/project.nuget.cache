@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6Kvs+gMxfUyP1fzpSmncqwMPm1ITZtJLrRRNU+XZwY9Hr4B//pCQ2hzeiS2gawdsU9sw/QS1gXDkGEesmBN/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d.karyakin\\Desktop\\Project\\ProduserConsumerRabbitMQ\\Recall.RabbitMq\\MicroservicesWithRabbitMQ\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\d.karyakin\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
