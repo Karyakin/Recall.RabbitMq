@@ -1,0 +1,17 @@
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\bin\Debug\netcoreapp3.1\Produser.exe
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\bin\Debug\netcoreapp3.1\Produser.deps.json
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\bin\Debug\netcoreapp3.1\Produser.runtimeconfig.json
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\bin\Debug\netcoreapp3.1\Produser.runtimeconfig.dev.json
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\bin\Debug\netcoreapp3.1\Produser.dll
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\bin\Debug\netcoreapp3.1\Produser.pdb
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.csproj.AssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.AssemblyInfoInputs.cache
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.AssemblyInfo.cs
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.dll
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.pdb
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.genruntimeconfig.cache
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\d.karyakin\Desktop\Project\ProduserConsumerRabbitMQ\Produser\obj\Debug\netcoreapp3.1\Produser.csproj.CopyComplete
