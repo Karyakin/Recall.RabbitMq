@@ -174,11 +174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\Project\\ProduserConsumerRabbitMQ\\Recall.RabbitMq\\Consumer\\Consumer.csproj",
-      "projectName": "Consumer",
-      "projectPath": "C:\\Users\\d.karyakin\\Desktop\\Project\\ProduserConsumerRabbitMQ\\Recall.RabbitMq\\Consumer\\Consumer.csproj",
+      "projectUniqueName": "C:\\Users\\d.karyakin\\Desktop\\Project\\ProduserConsumerRabbitMQ\\Recall.RabbitMq\\ProduserConsumerRabbitMQ\\Produser\\Produser.csproj",
+      "projectName": "Produser",
+      "projectPath": "C:\\Users\\d.karyakin\\Desktop\\Project\\ProduserConsumerRabbitMQ\\Recall.RabbitMq\\ProduserConsumerRabbitMQ\\Produser\\Produser.csproj",
       "packagesPath": "C:\\Users\\d.karyakin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d.karyakin\\Desktop\\Project\\ProduserConsumerRabbitMQ\\Recall.RabbitMq\\Consumer\\obj\\",
+      "outputPath": "C:\\Users\\d.karyakin\\Desktop\\Project\\ProduserConsumerRabbitMQ\\Recall.RabbitMq\\ProduserConsumerRabbitMQ\\Produser\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
