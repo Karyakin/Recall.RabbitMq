@@ -1,11 +1,32 @@
+using MicroRabbit.Infra.Bus;
+using MicroRabbit.Infra.IoC;
+using MicroRabbit.Transfer.Data.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+builder.Services.AddDbContext<TransferDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TransferDbConnection"));
+});
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(RabbitMQBus).Assembly));
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+RegisterServices(builder.Services);
+
+void RegisterServices(IServiceCollection services)
+{
+    DependencyContainer.RegisterServices(services);
+}
+
 
 var app = builder.Build();
 
