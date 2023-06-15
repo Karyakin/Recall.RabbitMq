@@ -15,6 +15,7 @@ public class AccountRepository : IAccountRepository
 
     public IEnumerable<Account> GetAccount()
     {
-        return _bankingDbContext.Accounts;
+        var res = _bankingDbContext.Accounts;
+        return res;
     }
 }

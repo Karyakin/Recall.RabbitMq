@@ -15,6 +15,7 @@ public class AccountService : IAccountService
 
     public IEnumerable<Account> GetAccounts()
     {
-        return _accountRepository.GetAccount();
+        var res =_accountRepository.GetAccount();
+        return res;
     }
 }
