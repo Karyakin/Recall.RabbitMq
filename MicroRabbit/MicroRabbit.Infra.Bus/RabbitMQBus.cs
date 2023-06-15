@@ -38,7 +38,8 @@ public sealed class RabbitMQBus : IEventBus
                 queue: eventName,
                 durable: false,
                 exclusive: false,
-                arguments: null
+                arguments: null,
+                autoDelete: true
             );
 
             var message = JsonConvert.SerializeObject(@event);
@@ -97,7 +98,7 @@ public sealed class RabbitMQBus : IEventBus
             queue: eventName,
             durable: false,
             exclusive: false,
-            autoDelete: false,
+            autoDelete: true,
             arguments: null
         );
 

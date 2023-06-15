@@ -1,4 +1,4 @@
-﻿namespace MicroRabbit.Banking.Domain.Event;
+﻿namespace MicroRabbit.Banking.Domain.Events;
 
 public class TransferCreatedEvent : MicroRabbit.Domain.Core.Events.Event
 {

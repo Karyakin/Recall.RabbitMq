@@ -1,6 +1,9 @@
+using MicroRabbit.Domain.Core.Bus;
 using MicroRabbit.Infra.Bus;
 using MicroRabbit.Infra.IoC;
 using MicroRabbit.Transfer.Data.Context;
+using MicroRabbit.Transfer.Domain.EventHandlers;
+using MicroRabbit.Transfer.Domain.Events;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -42,5 +45,13 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+ConfigureEventBus(app);
+
+void ConfigureEventBus(IApplicationBuilder webApplication)
+{
+    var eventBus = webApplication.ApplicationServices.GetRequiredService<IEventBus>();
+    eventBus.Subscribe<TransferCreatedEvent, TransferEventHandler>();
+}
 
 app.Run();
